@@ -42,3 +42,4 @@ end
 
 gem 'httparty' # Para realizar solicitudes HTTP al microservicio
 gem 'jwt'      # Para verificar y decodificar tokens JWT
+gem 'pg', '>= 0.18', '< 2.0'
